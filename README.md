@@ -1,2 +1,2 @@
-# RNA-seq
-QC, trimming, alignment, and generating counts
+# RNA-seq-scripts
+Scripts for QC, trimming, alignment, and generating counts
